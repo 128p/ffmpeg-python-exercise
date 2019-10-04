@@ -3,7 +3,7 @@
 Batch convert videos or audio files (default: input -> mp3)
 
 ```
-Usage
+Usage:
   tomp3 -i file.webm         # outputs file.mp3
   tomp3 -i my\\dir            # converts all files in \dir to .mp3 
   tomp3 -e webm -i file.mkv  # outputs file.mkv 
