@@ -1,4 +1,4 @@
-# ffmpeg-python-exercise
+# tomp3
 
 Batch convert videos or audio files (default: input -> mp3)
 
